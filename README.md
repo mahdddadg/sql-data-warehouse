@@ -35,13 +35,6 @@ This project involves:
 3. **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
 4. **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
 
-🎯 This repository is a strong portfolio project for roles such as:
-
-* Data Analyst
-* Data Engineer
-* SQL Developer
-* ETL Developer
-* Data Modeler
 
 ---
 
