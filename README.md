@@ -6,7 +6,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 ----
 ## 🌟 About Me
 
-Hi, I'm **Mahdi Dehlaghi** — a **Data Analyst** passionate about data engineering, analytics, and building scalable data solutions.
+Hi, I'm **Mahdi Dehlaghi** — a **Data Analyst** Bachlor degree graduated (IT) and passionate about data engineering, analytics, and building scalable data solutions.
 
 🔗 Connect with me:
 
