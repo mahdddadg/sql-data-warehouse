@@ -24,6 +24,10 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 2. **Silver Layer**: Includes data cleansing, standardization, and normalization processes to prepare data for analysis.
 3. **Gold Layer**: Houses business-ready data modeled into a star schema for reporting and analytics.
 
+<img width="1120" height="1432" alt="DATA-architect drawio" src="https://github.com/user-attachments/assets/5129850e-0020-4730-8194-6f7cb42bd36a" />
+
+   
+
 ---
 
 ## 📖 Project Overview
