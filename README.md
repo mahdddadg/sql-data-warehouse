@@ -2,9 +2,8 @@
 
 Welcome to the **Data Warehouse and Analytics Project** repository! 🚀
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
-
 ----
-## 🌟 About Me
+## 🌟 About Me 🌟
 
 Hi, I'm **Mahdi Dehlaghi** — a **Data Analyst** Bachlor degree graduated (IT) and passionate about data engineering, analytics, and building scalable data solutions.
 
@@ -26,7 +25,16 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 
 <img width="1120" height="1432" alt="DATA-architect drawio" src="https://github.com/user-attachments/assets/5129850e-0020-4730-8194-6f7cb42bd36a" />
 
-   
+
+
+   The following architecture illustrates the complete flow of data inside the warehouse using the Medallion Architecture approach.
+
+Architecture Layers
+🔹 Sources Layer
+
+The project uses two source systems:
+CRM System
+ERP System
 
 ---
 
