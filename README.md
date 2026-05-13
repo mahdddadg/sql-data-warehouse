@@ -12,7 +12,7 @@ Hi, I'm **Mahdi Dehlaghi** — a **Data Analyst** Bachlor degree graduated (IT) 
 🔗 Connect with me:
 
 * LinkedIn: https://www.linkedin.com/in/mahdi-dehlaghi-24b7153a2
-* Notion (Project Planning): https://www.notion.so/Data-Warehouse-Project-By-Mahdi-Dehlaghi-356898b3c0bb80d29c05ed38893d9e83
+* Email : dehlaghimahdi@gmail.com
 
 ---
 
