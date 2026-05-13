@@ -2,7 +2,8 @@
 
 Welcome to the Data Warehouse and Analytics Project by Mahdi Dehlaghi! 🚀
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights.It highlights industry best practices in data engineering and analytics.
-For maximum understanding track my Project Planning :* Notion (Project Planning): https://www.notion.so/Data-Warehouse-Project-By-Mahdi-Dehlaghi-356898b3c0bb80d29c05ed38893d9e83
+For maximum understanding track my Project Planning :
+* Notion (Project Planning): https://www.notion.so/Data-Warehouse-Project-By-Mahdi-Dehlaghi-356898b3c0bb80d29c05ed38893d9e83
 ----
 ## 🌟 About Me 🌟
 
